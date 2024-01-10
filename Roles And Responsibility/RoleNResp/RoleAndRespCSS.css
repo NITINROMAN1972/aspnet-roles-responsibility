@@ -1,0 +1,7 @@
+﻿
+.custom-treeview span {
+    display: inline-block;
+    position: relative;
+    padding-left: 4px;
+    margin-bottom: 4px;
+}
